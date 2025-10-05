@@ -26,7 +26,6 @@ I found these websites useful in developing this software:
 
 * [Your first 2D Game - Godot Documentation](https://docs.godotengine.org/en/4.4/getting_started/first_2d_game/index.html)
 * [How to make a game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
-*
 
 ## Future Work
 
